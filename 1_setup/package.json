@@ -1,0 +1,11 @@
+{
+  "name": "webpack_setup",
+  "version": "1.0.0",
+  "description": "1. Make a new NPM project 2. Create js modules 3. install and configure webpack 4. run webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
