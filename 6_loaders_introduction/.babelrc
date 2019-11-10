@@ -1,0 +1,4 @@
+{
+  //Tells webpack to run presets on the files
+  "presets": ["babel-preset-env"]
+}
