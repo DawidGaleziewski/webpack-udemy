@@ -1,0 +1,4 @@
+{
+  //react the preset is needed for JSX translation
+  "presets": ["@babel/preset-env", "react"]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "webpack_setup",
+  "version": "1.0.0",
+  "description": "1. Make a new NPM project 2. Create js modules 3. install and configure webpack 4. run webpack",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "css-loader": "^3.2.0",
+    "style-loader": "^1.0.0",
+    "webpack": "^2.2.0-rc.0"
+  }
+}
